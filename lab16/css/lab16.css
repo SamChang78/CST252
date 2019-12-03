@@ -1,0 +1,40 @@
+h1 {
+	color: green;
+}
+
+h2 {
+	color: brown;
+}
+
+h3 {
+	color: blue;
+}
+
+h4 {
+	color: red;
+}
+
+p {
+	font-family:"comic sans";
+	text-indent: 20px;
+	margin-left: 10px;
+}
+
+#content {
+	background-color: orange;
+	width: 700px;
+	min-height: 500px;
+	padding: 30px;
+	margin: 30px;
+	font-size: 40px;
+	font-color: turquoise;
+}
+
+#output {
+	background-color: turquoise;
+	width: 700px;
+	min-height: 500px;
+	padding: 30px;
+	margin: 30px;
+	font-color: green;
+}

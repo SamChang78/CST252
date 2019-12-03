@@ -1,0 +1,73 @@
+/*
+.content {
+	background-color: orange;
+	width: 700px;
+	min-height: 500px;
+	padding: 30px;
+	margin: 30px;
+	font-size: 40px;
+}
+
+
+#output {
+	background-color: turquoise;
+	width: 700px;
+	min-height: 500px;
+	padding: 30px;
+	margin: 30px;
+	font-color: green;
+}
+
+.challenge {
+	color: blue;
+	background-color: blue;
+}
+
+.problems {
+	color: green;
+	background-color: yellow;
+}
+
+.results {
+	color: brown;
+	background-color:green;
+}
+*/
+
+body {
+background-color: turquoise;
+}
+
+.boxo {
+background-color: #e6e6e6;
+border: 1px solid black;
+padding: 5px;
+}
+
+#output {
+border: 1px solid black;
+background-color: gray;
+padding: 1px;
+}
+
+.challenge{
+color: orange;
+border: 1px solid black;
+background-color: blue;
+padding: 1px;
+}
+
+.problems{
+color: aqua;
+border: 5px dashed black;
+background-color: black;
+padding: 10px;
+}
+
+.results{
+color: yellow;
+border: 3px dotted black;
+background-color: pink;
+padding: 5px;
+}
+
